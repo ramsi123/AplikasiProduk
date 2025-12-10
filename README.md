@@ -1,6 +1,6 @@
 # Aplikasi Produk
 
-Aplikasi Flutter sederhana untuk menampilkan list produk dan detail produk.
+Aplikasi Flutter sederhana untuk login. Menampilkan semua list produk, filter list produk, dan detail produk.
 
 ## Cara Menjalankan
 
